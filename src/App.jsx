@@ -12,7 +12,7 @@ export default function App() {
         <section>
         
         <div className="nome">
-          <h2>Fazer login</h2>
+          <img src={logo} className="img" />
         </div>
 
         <div className="login">
@@ -33,4 +33,5 @@ export default function App() {
     </>
   )
 }
+
 
