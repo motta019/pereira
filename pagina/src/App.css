@@ -1,0 +1,34 @@
+@media (max-width: 767px){
+  
+}
+main{
+  height: 100vh;
+  width: 100%;
+  background: #8765;
+}
+.foto{
+width: 50%;
+height: 100vh;
+background: rgba(40, 187, 89, 0.4);
+float: left;
+background: url('./assets/tecnologia.jpg');
+background-size: cover;
+background-position: 50%;
+}
+.esq{
+  float: inline-start;
+  margin-top: 4%;
+  margin-left: 10%;
+  border: none;
+  cursor: pointer;
+  color: blue;
+  line-height: 1;
+  background: none;
+}
+.ent{
+  margin-right: 2%;
+  margin-top: 5%;
+}
+p{
+  margin-right: 25%;
+}
